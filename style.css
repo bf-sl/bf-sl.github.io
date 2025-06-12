@@ -87,6 +87,7 @@ body { color: white; background-image: linear-gradient(to right, #004aad, #cb6ce
 .team-bar div {
 	width: 2px; height: calc(100% - 10px);
 	background-color: #6611ff; border-radius: 50px;
+	margin: 0 !important;
 }
 
 .team-name { margin-left: 10px; }
