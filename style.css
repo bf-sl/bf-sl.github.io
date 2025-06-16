@@ -100,6 +100,10 @@ body { color: white; background-image: linear-gradient(to right, #004aad, #cb6ce
 	width: 40px;
 	text-align: center;
 }
+.team-games {
+	width: 40px;
+	text-align: center;
+}
 .placement { margin-left: 10px; }
 
 .statFrame {
